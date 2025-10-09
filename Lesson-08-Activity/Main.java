@@ -25,6 +25,6 @@ class Main {
 		return Math.sqrt(Math.pow(x2 - x1,2)+ Math.pow(y2-y1,2));
 	}
 	void print(String a){
-		system.out.println(a);
+		System.out.println(a);
 	}
 }
